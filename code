@@ -1,0 +1,20 @@
+#
+    This program  will 1.  Get input string from user
+                      2.   Split it
+                      3.   map it
+                      4.   output the letters and                               index. 
+
+
+
+#
+
+puts " Input here: "
+input = gets
+
+input = a.split(//)
+input_1 = a.map.with_index { |ch, idx| [ch, idx] }
+puts input_1
+
+
+
+
